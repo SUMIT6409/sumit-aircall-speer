@@ -1,0 +1,439 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent should render correctly in "debug" mode 1`] = `
+<div
+  style={
+    {
+      "maxHeight": "80%",
+      "overflow": "auto",
+    }
+  }
+>
+  <div
+    style={
+      {
+        "position": "sticky",
+        "top": "0",
+        "width": "100%",
+        "zIndex": "200",
+      }
+    }
+  >
+    <WithStyles(ForwardRef(Button))
+      color="primary"
+      onClick={[Function]}
+      startIcon={<Memo />}
+      style={
+        {
+          "width": "100%",
+        }
+      }
+      variant="contained"
+    >
+      Archive all calls
+    </WithStyles(ForwardRef(Button))>
+  </div>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Chip))
+      className="makeStyles-title-3"
+      label="4 January 2024"
+    />
+    <div
+      className="makeStyles-demo-2"
+    >
+      <WithStyles(ForwardRef(Paper))>
+        <WithStyles(ForwardRef(List))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneCallbackIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="9002098981"
+              secondary="11:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneMissedIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="9672098981"
+              secondary="10:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneForwardedIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="87292098981"
+              secondary="09:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneCallbackIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="97892098981"
+              secondary="04:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+        </WithStyles(ForwardRef(List))>
+      </WithStyles(ForwardRef(Paper))>
+    </div>
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Chip))
+      className="makeStyles-title-3"
+      label="3 January 2024"
+    />
+    <div
+      className="makeStyles-demo-2"
+    >
+      <WithStyles(ForwardRef(Paper))>
+        <WithStyles(ForwardRef(List))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneCallbackIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="9992098981"
+              secondary="11:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneMissedIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="8102098981"
+              secondary="10:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneCallbackIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="97892098981"
+              secondary="04:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+        </WithStyles(ForwardRef(List))>
+      </WithStyles(ForwardRef(Paper))>
+    </div>
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Chip))
+      className="makeStyles-title-3"
+      label="2 January 2024"
+    />
+    <div
+      className="makeStyles-demo-2"
+    >
+      <WithStyles(ForwardRef(Paper))>
+        <WithStyles(ForwardRef(List))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneCallbackIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="8292098981"
+              secondary="11:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneMissedIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="9992098981"
+              secondary="06:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneForwardedIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="8992098981"
+              secondary="09:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+        </WithStyles(ForwardRef(List))>
+      </WithStyles(ForwardRef(Paper))>
+    </div>
+  </WithStyles(ForwardRef(Grid))>
+  <WithStyles(ForwardRef(Grid))
+    item={true}
+    xs={12}
+  >
+    <WithStyles(ForwardRef(Chip))
+      className="makeStyles-title-3"
+      label="1 January 2024"
+    />
+    <div
+      className="makeStyles-demo-2"
+    >
+      <WithStyles(ForwardRef(Paper))>
+        <WithStyles(ForwardRef(List))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneMissedIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="9292098981"
+              secondary="10:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+          <WithStyles(ForwardRef(ListItem))>
+            <WithStyles(ForwardRef(ListItemAvatar))>
+              <WithStyles(ForwardRef(Avatar))>
+                <Memo(ForwardRef(PhoneForwardedIcon)) />
+              </WithStyles(ForwardRef(Avatar))>
+            </WithStyles(ForwardRef(ListItemAvatar))>
+            <WithStyles(ForwardRef(ListItemText))
+              primary="7892098981"
+              secondary="09:58 PM"
+            />
+            <WithStyles(ForwardRef(ListItemSecondaryAction))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="delete"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(InfoIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+              <WithStyles(ForwardRef(IconButton))
+                aria-label="archive"
+                edge="end"
+                onClick={[Function]}
+              >
+                <Memo(ForwardRef(ArchiveIcon)) />
+              </WithStyles(ForwardRef(IconButton))>
+            </WithStyles(ForwardRef(ListItemSecondaryAction))>
+          </WithStyles(ForwardRef(ListItem))>
+        </WithStyles(ForwardRef(List))>
+      </WithStyles(ForwardRef(Paper))>
+    </div>
+  </WithStyles(ForwardRef(Grid))>
+  <Alert
+    archiveMessage=""
+    open={false}
+    setOpen={[Function]}
+  />
+  <DetailsModal
+    callDetails={{}}
+    modalOpen={false}
+    setModalOpen={[Function]}
+  />
+</div>
+`;

@@ -1,0 +1,65 @@
+.dial-pad {
+  display: flex;
+  flex-direction: column;
+  max-width: 320px;
+}
+
+.dial-pad .phone-number {
+  display: flex;
+  justify-content: center;
+  font-size: 2.4rem;
+  height: 3rem;
+  padding: 16px 0;
+}
+
+.dial-pad .digits {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.dial-pad .digits > div.digit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 1.5rem;
+  width: 50px;
+  height: 50px;
+  margin: 16px;
+  background-color: rgba(211, 211, 211, 0.1);
+  border: 1px solid rgba(211, 211, 211, 1);
+  border-radius: 50%;
+}
+
+.dial-pad .digits > div.digit .subset {
+  color: grey;
+  font-size: 0.525rem;
+  font-weight: 600;
+  height: 0.875rem;
+}
+
+.dial-pad .controls {
+  display: flex;
+  justify-content: flex-end;
+  padding: 16px 0;
+}
+
+.dial-pad .controls > div.call {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-left: 16px;
+  margin-right: 26px;
+  width: 57px;
+  height: 57px;
+}
+
+.dial-pad .controls > div.backspace {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 16px;
+  width: 72px;
+  height: 72px;
+}
